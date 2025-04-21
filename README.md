@@ -6,12 +6,11 @@ I AM DEVELOPING A Domain-DRIVEN E-COMMERCE WEB APPLICATION.
 
 ## **Description**:
 
-Domain-driven management is a concept that has solidified in recent years. It proposes using the data collected by the company during operation to improve the relationship with the customer.
+Domain-driven management is a concept that has solidified in recent years. It proposes using the data collected by the company during operation to improve the relationship with the customer
 
 The idea is to validate campaigns, analyze the reception of new products, and carry out tests so that the company can improve its performance in the consumer market. The application of domain-driven development in e-commerce is increasingly common and is helping the market to become more competitive.
 
 So what it does is:
-
  
 - [x] Products
 - [x] Address
